@@ -1,6 +1,6 @@
 cask "snaplite" do
-  version "0.3.0"
-  sha256 "6be1d146acadd4faccde8ce4306d24346300501a5cc2a69ee9512e652f81c423"
+  version "1.0.0"
+  sha256 "68d200158baec95644b0fd1a224d5d408e81ebc7f24f6e47f939819ecb844357"
 
   url "https://github.com/quyvu01/homebrew-tap/releases/download/snaplite-v#{version}/SnapLite-#{version}.zip"
   name "SnapLite"
